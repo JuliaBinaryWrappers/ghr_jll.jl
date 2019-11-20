@@ -1,0 +1,113 @@
+[[ghr]]
+arch = "x86_64"
+git-tree-sha1 = "d0172e438dc4b9ebafd4309ef08ea9ccedcb5858"
+os = "macos"
+
+    [[ghr.download]]
+    sha256 = "eb35fb3fc70ba81675e8e28596563c890d3916eced784758fcf5a03180cd67c9"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.x86_64-apple-darwin14.tar.gz"
+[[ghr]]
+arch = "powerpc64le"
+git-tree-sha1 = "fceee976dc7620be6b5d842e929c0ad26fb5083e"
+libc = "glibc"
+os = "linux"
+
+    [[ghr.download]]
+    sha256 = "5b25e30855410da09eb9bb6ea47c1eb314d60fa84ff41e54361bd3dd9da97655"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.powerpc64le-linux-gnu.tar.gz"
+[[ghr]]
+arch = "aarch64"
+git-tree-sha1 = "9c5f25bf4bcbc99aec445ebf4d3a102322bf58a8"
+libc = "musl"
+os = "linux"
+
+    [[ghr.download]]
+    sha256 = "4348f36c64e328405aaed56005569d8c48d0340a3a46775de74c87f90c374680"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.aarch64-linux-musl.tar.gz"
+[[ghr]]
+arch = "x86_64"
+git-tree-sha1 = "5d7c825066e34a90f335c261a2b07e77487bfe5a"
+os = "freebsd"
+
+    [[ghr.download]]
+    sha256 = "f157d21db2939b2491bbfeff617e559ba8161db7e60521d640b636ead8a0643d"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[ghr]]
+arch = "i686"
+git-tree-sha1 = "5752bbd1861795a8fe83548f0fa9affd24671068"
+libc = "musl"
+os = "linux"
+
+    [[ghr.download]]
+    sha256 = "1aeae37188cb75a3d4149853b7c5df7bcddf03eb9426408ddb843ea44228dbc4"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.i686-linux-musl.tar.gz"
+[[ghr]]
+arch = "armv7l"
+git-tree-sha1 = "d25d60b47da17e0fb783c884ed5c3e9ef2f21153"
+libc = "musl"
+os = "linux"
+
+    [[ghr.download]]
+    sha256 = "93d73e2d549eb86e2e1620c74de2bdc986ee2cf7e0895a4c89158ee70ee342e3"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.arm-linux-musleabihf.tar.gz"
+[[ghr]]
+arch = "i686"
+git-tree-sha1 = "2f869b2459a5fb62015b1e3e932ca44847133a9b"
+libc = "glibc"
+os = "linux"
+
+    [[ghr.download]]
+    sha256 = "35064ffd8ebc1563fcbe1b06cb493fe8b36ac53219cb7c6d804c8a69eb313a9a"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.i686-linux-gnu.tar.gz"
+[[ghr]]
+arch = "i686"
+git-tree-sha1 = "41635c6032fb0b2cb78e2e9dec2726476b0af80d"
+os = "windows"
+
+    [[ghr.download]]
+    sha256 = "da7fa507ff359e59f628ee79a9dc51ae86cf31a53225c68bded95b3b6023de42"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.i686-w64-mingw32.tar.gz"
+[[ghr]]
+arch = "x86_64"
+git-tree-sha1 = "000517e803d24497dad49c4602e40af94efe9c43"
+libc = "glibc"
+os = "linux"
+
+    [[ghr.download]]
+    sha256 = "892124711dc51e88ef69d3474528e2b4708361b229f94b7cd03601ee3520ff11"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.x86_64-linux-gnu.tar.gz"
+[[ghr]]
+arch = "x86_64"
+git-tree-sha1 = "b597313a08679c48c45ccc54ac86d93f4b86632a"
+os = "windows"
+
+    [[ghr.download]]
+    sha256 = "314e0125b1f40f09710534e1c960ccd22e854d014925262286d3970d50a1604b"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.x86_64-w64-mingw32.tar.gz"
+[[ghr]]
+arch = "armv7l"
+git-tree-sha1 = "c9e1cd2936160f0d7a781bf0ec3dab6d9f8f2353"
+libc = "glibc"
+os = "linux"
+
+    [[ghr.download]]
+    sha256 = "c0b13c48645416e1944ceab0dcd57df3474e27b742627a50260e161ccc1ccded"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.arm-linux-gnueabihf.tar.gz"
+[[ghr]]
+arch = "x86_64"
+git-tree-sha1 = "16a671c042f5273022bf75dd73aec2755eff0c9e"
+libc = "musl"
+os = "linux"
+
+    [[ghr.download]]
+    sha256 = "8d09663962576a69577d966ba6708ef001c59a4178e53bce46bc2b0b361d473a"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.x86_64-linux-musl.tar.gz"
+[[ghr]]
+arch = "aarch64"
+git-tree-sha1 = "c644a993d8b212e54042207790155fa9da761e0f"
+libc = "glibc"
+os = "linux"
+
+    [[ghr.download]]
+    sha256 = "52ecc5baeda0d1b0bc438f72bb19c2f0c99172684d1629fbdbaec6035a7b4ee1"
+    url = "https://github.com/JuliaBinaryWrappers/ghr_jll.jl/releases/download/ghr-v0.13.0+0/ghr.v0.13.0.aarch64-linux-gnu.tar.gz"
